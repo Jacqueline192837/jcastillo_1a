@@ -5,3 +5,5 @@
 Planning ok
 Design ok
 Code ok
+Compile ok
+Test ok
